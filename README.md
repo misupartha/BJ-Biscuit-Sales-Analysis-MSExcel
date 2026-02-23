@@ -32,8 +32,8 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/cb94fa39-67ae-43e9-a78c-fa8f46edb409)
 
 ## Project Insights
-- **Male** customers are more likely to buy products compared to females and others **(~85%)**.
-- The cities of **San Antonio**, **San Jose**, and **Philadelphia** are the **top 3 highest** revenue-generating locations.
+- **Male customers** are more likely to buy products compared to females and others **(~85%)**.
+- The cities of **San Antonio, San Jose, and Philadelphia** are the **top 3 highest** revenue-generating locations.
 - The adult age group **(30–74 yrs)** is the **max** contributing **(~71%)** and buys the most products.
 - **Expensive price** category products dominate the **majority** of revenue contribution **(~90%)**.
 - All four payment methods are **almost equally** preferred, with **Debit Card** slightly leading **(~26%)**.
@@ -43,7 +43,7 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 - **Shortbread** is the **highest selling product** across **all locations** and **age groups**.
 
  ## Conclusion & Recommendations
-To improve the sales of B&J Biscuit, a strategic marketing plan focused on male customers aged 30–74 years in San Antonio, San Jose, and Philadelphia should be implemented. Since they represent the highest revenue-generating segment, targeted digital marketing campaigns and personalized promotions should be prioritized for this group. B&J Biscuit should also focus on expanding its premium product line, particularly Shortbread, as it reflects strong customer preference, while using personalized promotions and targeted ads to engage high-value customers like Robert Hernandez and drive repeat purchases. Lastly, the cost optimization strategies that make Chicago the most profitable location should be replicated across other locations, while ensuring a seamless payment experience across all methods to maintain customer satisfaction and drive higher spending.
+To improve the sales of B&J Biscuit, a strategic marketing plan focused on **male customers aged 30–74 years** in **San Antonio, San Jose, and Philadelphia** should be implemented. Since they represent the highest revenue-generating segment, targeted **digital marketing campaigns and personalized promotions** should be prioritized for this group. B&J Biscuit should also focus on expanding its **premium product line**, particularly Shortbread, as it reflects strong customer preference, while using **personalized promotions and targeted ads** to engage high-value customers like **Robert Hernandez** and drive repeat purchases. Lastly, the **cost optimization strategies** that make Chicago the most profitable location should be replicated across other locations, while ensuring a seamless payment experience across all methods to maintain customer satisfaction and drive higher spending.
 
 
 
