@@ -4,7 +4,7 @@
 B&J Biscuit Company wants to create a comprehensive interactive annual sales analysis dashboard to understand their customers and business performance. The dashboard provides deep insights into revenue distribution, customer demographics, geographic performance, sales trends and profitability, enabling the owner to identify profitable segments, monitor sales effectively, and make informed strategic decisions to grow revenue and maximize profitability in the coming years.
 
 ## Dataset Used 
-- <a href="https://github.com/misupartha/BJ-Biscuit-Sales-Analysis/blob/main/B%26J%20Biscuit%20Dataset.xlsx"> B&J Biscuit Data</a>
+- <a href="https://github.com/misupartha/BJ-Biscuit-Sales-Analysis/blob/main/B%26J%20Biscuit%20Dataset.xlsx"> B&J Biscuit Data </a>
 
 ## Questions (KPIs)
 - What is the total revenue and how is it distributed across product price categories?
@@ -20,5 +20,6 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 - Who is the top-performing salesperson?
 - Which age group is the most profitable?
 - Who are the top 5 customers by revenue contribution?
+- Dashboard Interaction - <a href="https://github.com/misupartha/BJ-Biscuit-Sales-Analysis/blob/main/Dashboard%20Screenshot.jpg"> View Dashboard </a>
 
 
