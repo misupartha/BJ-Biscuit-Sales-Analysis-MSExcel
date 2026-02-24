@@ -24,7 +24,7 @@ B&J Biscuit Company wants to create a comprehensive interactive annual sales ana
 - Who is the top-performing salesperson?
 - Which age group is the most profitable?
 - Who are the top 5 customers by revenue contribution?
-- Dashboard Interaction <a href="https://github.com/misupartha/BJ-Biscuit-Sales-Analysis/blob/main/Dashboard%20Screenshot.jpg"> View Dashboard </a>
+- Dashboard Interaction <a href="https://github.com/misupartha/BJ-Biscuit-Sales-Analysis/blob/main/Dashboard%20Screenshot.jpg"> [View Dashboard] </a>
 
 ---
 
